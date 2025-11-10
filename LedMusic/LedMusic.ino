@@ -10,7 +10,7 @@
 #include <EEPROMex.h>
 #include "GyverButton.h"
 
-#define NUM_LEDS 29
+#define NUM_LEDS 28
 #define LED_PIN 12
 #define BTN_PIN 3
 
